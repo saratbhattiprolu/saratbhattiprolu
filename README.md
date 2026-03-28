@@ -1,6 +1,6 @@
 # Hi, I'm Sarat Bhattiprolu
 
-Product and strategy leader turning data into decisions that move businesses forward.
+Product, Data and Strategy leader turning data into decisions that move businesses forward.
 
 8+ years across management consulting (ZS Associates), Fortune 100 commercial analytics (Cognizant), and high-growth SaaS (Gist, CrunchPrep). Georgetown MBA. Currently building at the intersection of data science, AI strategy, and product management.
 
