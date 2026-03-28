@@ -13,6 +13,7 @@ I sit between technical teams and business leadership. I translate complex ML an
 | Project | What it demonstrates |
 |---------|---------------------|
 | [SaaS Customer Churn Analysis](https://github.com/saratbhattiprolu/saas-customer-churn-analysis) | End-to-end DS pipeline: EDA, classification, clustering, and a retention strategy with $1.85M projected annual impact. Includes an executive memo with honest assumptions and sensitivity ranges. |
+| [Ecommerce Sales Prediction](https://github.com/saratbhattiprolu/saas-customer-churn-analysis) | E-commerce sales analysis: customer segmentation, sales prediction, and business insights. |
 
 ## What I'm learning
 
