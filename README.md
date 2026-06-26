@@ -13,7 +13,7 @@ I sit between technical teams and business leadership. I translate complex ML an
 | Project | What it demonstrates |
 |---------|---------------------|
 | [SaaS Customer Churn Analysis](https://github.com/saratbhattiprolu/saas-customer-churn-analysis) | End-to-end DS pipeline: EDA, classification, clustering, and a retention strategy with $1.85M projected annual impact. Includes an executive memo with honest assumptions and sensitivity ranges. |
-| [Ecommerce Sales Prediction](https://github.com/saratbhattiprolu/saas-customer-churn-analysis) | E-commerce sales analysis: customer segmentation, sales prediction, and business insights. |
+| [Ecommerce Sales Prediction](https://github.com/saratbhattiprolu/ecommerce_sales_prediction) | E-commerce sales analysis: customer segmentation, sales prediction, and business insights. |
 | [Pharma Sales Analytics](https://github.com/saratbhattiprolu/Pharma-Sales-Analytics) | End-to-end pharmaceutical demand forecasting across 8 drug categories, from exploratory analysis and stationarity testing to production ARIMA and Prophet models with 95% confidence intervals. |
 [Loan Approval Prediction](https://github.com/saratbhattiprolu/Loan-Approval-Prediction) | End-to-end binary classification pipeline on ~1M loan applications. Compares logistic regression, random forest, and XGBoost with engineered financial features, ROC-AUC evaluation, and F1-optimised decision threshold calibration.|
 [Sponsored Jobs App](https://github.com/saratbhattiprolu/sponsored-jobs) | A self-hosted web app for finding US jobs that sponsor work visas and tracking your applications. Built with FastAPI + SQLite + server-rendered Jinja templates. No build step, runs on a single Python process. |
